@@ -1,4 +1,4 @@
 streamlit
-PIL
+Image
 datetime
 
